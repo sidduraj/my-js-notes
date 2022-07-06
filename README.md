@@ -40,3 +40,11 @@ then that text should be displyed in the bottom section of the page.
 
 If the user changes the text and click on tr button the changed text should be added after the previous text which was added before.
 // just with above changes this should also work
+
+
+css sample ex:
+tag name{color:red
+         height:150px
+         width:150px
+         background:green
+}
